@@ -1,4 +1,4 @@
-alert("hello this your calculator");
+alert("this's a simple calculator using javascript");
 var display = document.getElementById("display");
 
 function appendToDisplay(input){
