@@ -1,3 +1,4 @@
+alert("hello this your calculator");
 var display = document.getElementById("display");
 
 function appendToDisplay(input){
